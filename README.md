@@ -1,1 +1,1 @@
-# Pytorch-Projects
+# MachineLearning-Project
